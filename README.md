@@ -101,5 +101,5 @@ This project is licensed under the MIT License.
 
 ## ✨ Author
 
-Developed by **Your Name**  
+Developed by **Pierre Mvita**  
 GitHub: [https://github.com/Pmvita](https://github.com/Pmvita)
