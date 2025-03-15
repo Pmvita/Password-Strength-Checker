@@ -102,4 +102,4 @@ This project is licensed under the MIT License.
 ## ✨ Author
 
 Developed by **Pierre Mvita**  
-GitHub: [https://github.com/Pmvita](https://github.com/Pmvita)
+GitHub: [@Pmvita](https://github.com/Pmvita)
